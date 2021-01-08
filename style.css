@@ -1,0 +1,24 @@
+html {
+    font-family: 'Fredoka One', cursive;
+}
+body {
+    display : flex;
+    background: rgb(255,0,0);
+    background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(253,100,29,1) 47%, rgba(252,176,69,1) 100%);
+}
+.advert {
+    width: 40rem;
+   margin: auto;
+   padding: 4rem 0 0 5rem; 
+}
+img {
+    width: 20rem;
+    height: 20rem;
+    float: right;
+   margin: auto;
+   padding: 4rem 5rem 0 0; 
+}
+
+h1 {
+    font-size: 4rem;
+}
